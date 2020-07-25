@@ -35,10 +35,12 @@ debug: True
     {% assign end   = s.end   | date: "%s" | plus: gap  %}
     {% if DEBUG %}
         year: {{ s.year }}
-        semester: {{ s.number }}  
+        semester: {{ s.number }}
+        s.begin: {{ s.begin }}
         begin: {{ begin }}
         now: {{ now }}
         end: {{ end }}
+        s.end: {{ s.end }}
     {% endif %}
     {% if now > begin and now < end %}
         {% assign year     = s.year   | plus: 0 %}
