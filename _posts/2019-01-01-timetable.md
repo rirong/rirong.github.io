@@ -29,7 +29,7 @@ debug: True
 {% assign year = settings.default_year %}
 {% assign semester = settings.default_semester %}
 {% assign now = site.time | date: "%s" | plus: 0 %}
-{% assign gap = site.time.week_to_second | times: 2 %}
+{% assign gap = site.settings.week_to_second | times: 2 %}
 {% for s in semesters %}
     {% assign begin = s.begin | date: "%s" | minus: gap %}
     {% assign end   = s.end   | date: "%s" | plus: gap  %}
