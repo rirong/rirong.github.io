@@ -1,0 +1,16 @@
+id,year,semester,name,abbreviation,type,link
+COMP6250,2019,1,Professional Practice 1,PP1,professional,
+COMP6710,2019,1,Structured Programming,SP,professional,https://cs.anu.edu.au/courses/comp1110/
+MATH6005,2019,1,Discrete Mathematical Models,MTH,other,
+COMP8420,2019,1,Neural Networks & Deep Learning,NN,elective,
+COMP6670,2019,2,Introduction to Machine Learning,ML,compulsory,
+COMP6466,2019,2,Algorithms,ALG,other,https://cs.anu.edu.au/courses/comp3600/
+ENGN8534,2019,2,Information Theory,INF,elective,
+COMP6490,2019,2,Document Analysis,DOC,elective,
+COMP8600,2020,1,Statistical Machine Learning,SML,compulsory,https://machlearn.gitlab.io/sml2020/
+ENGN6528,2020,1,Computer Vision,CV,compulsory,
+COMP6262,2020,1,Logic,LGC,elective,http://users.cecs.anu.edu.au/~jks/LogicNotes/index.html
+COMP6320,2020,1,Artificial Intelligence,AI,elective,https://cs.anu.edu.au/courses/comp3620/
+ENGN8536,2020,2,Advanced Topics in Mechatronics Systems,AMS,elective,
+ENGN8501,2020,2,Advanced Topics in Computer Vision,ACV,compulsory,
+ENGN8602,2020,2,Research Project,RES,professional,

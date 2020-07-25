@@ -1,0 +1,14 @@
+# Jekyll
+_site/
+.sass-cache/
+.jekyll-cache/
+.jekyll-metadata
+
+# Mac
+.DS_Store
+
+# JetBrains's IDE
+**/.idea
+
+# VSCode
+**/.vscode

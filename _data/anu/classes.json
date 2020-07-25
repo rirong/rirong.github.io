@@ -1,0 +1,411 @@
+[
+    {    
+        "year": 2019,
+        "semester": 1,
+        "weekday": "Monday",
+        "hour": 12,
+        "weeks": [1,2,4,5,6,11,12,13],
+        "cid": "MATH6005",
+        "lid": "Llewllyn",
+        "room": ""
+    },
+    {    
+        "year": 2019,
+        "semester": 1,
+        "weekday": "Monday",
+        "hour": 123,
+        "weeks": [1,2,4,5,6,10,11,12,13],
+        "cid": "COMP6710",
+        "lid": "Copland",
+        "room": "LT"
+    },
+    {    
+        "year": 2019,
+        "semester": 1,
+        "weekday": "Tuesday",
+        "hour": 8,
+        "weeks": [1,2,3,4,5,6,10,11,12],
+        "cid": "MATH6005",
+        "lid": "Llewllyn",
+        "room": ""
+    },
+    {    
+        "year": 2019,
+        "semester": 1,
+        "weekday": "Tuesday",
+        "hour": 11,
+        "weeks": [1,3,4,5,6,9,10,11,12,13],
+        "cid": "COMP6710",
+        "lid": "Computer",
+        "room": "N115"
+    },
+    {    
+        "year": 2019,
+        "semester": 1,
+        "weekday": "Tuesday",
+        "hour": 14,
+        "weeks": [1,2,9,12],
+        "cid": "COMP6250",
+        "lid": "Robertson",
+        "room": "LT"
+    },
+    {    
+        "year": 2019,
+        "semester": 1,
+        "weekday": "Tuesday",
+        "hour": 16,
+        "weeks": [2,3,4,5,6,9,10,11,12,13],
+        "cid": "COMP6250",
+        "lid": "Hanna",
+        "room": "125"
+    },
+    {    
+        "year": 2019,
+        "semester": 1,
+        "weekday": "Wednesday",
+        "hour": 8,
+        "weeks": [2,3,4,5,6,9,10],
+        "cid": "COMP6250",
+        "lid": "Physics",
+        "room": ""
+    },
+    {    
+        "year": 2019,
+        "semester": 1,
+        "weekday": "Wednesday",
+        "hour": 12,
+        "weeks": [1,2,3,4,5,6,9,11,12,13,14],
+        "cid": "MATH6005",
+        "lid": "Llewllyn",
+        "room": ""
+    },
+    {    
+        "year": 2019,
+        "semester": 1,
+        "weekday": "Wednesday",
+        "hour": 15,
+        "weeks": [1,2,3,4,5,6,9,10,11,12,13,14],
+        "cid": "COMP8420",
+        "lid": "Barry",
+        "room": "1L"
+    },
+    {    
+        "year": 2019,
+        "semester": 1,
+        "weekday": "Thursday",
+        "hour": 13,
+        "weeks": [2,3,4,5,6,9,10,11,12,13,14],
+        "cid": "COMP8420",
+        "lid": "Hanna",
+        "room": "123"
+    },
+    {    
+        "year": 2019,
+        "semester": 1,
+        "weekday": "Friday",
+        "hour": 12,
+        "weeks": [1,2,3,4,5,6,9,10,11,12,13,14],
+        "cid": "COMP8420",
+        "lid": "Barry",
+        "room": "1L"
+    },
+    {    
+        "year": 2019,
+        "semester": 1,
+        "weekday": "Friday",
+        "hour": 12,
+        "weeks": [1,2,3,4,5,6,9,10,11,12,13,14],
+        "cid": "COMP6710",
+        "lid": "Copland",
+        "room": "LT"
+    },
+    {    
+        "year": 2019,
+        "semester": 1,
+        "weekday": "Friday",
+        "hour": 12,
+        "weeks": [1,2,3,4,5,6,9,10,11,12,13,14],
+        "cid": "COMP6710",
+        "lid": "Copland",
+        "room": "LT"
+    },
+    {    
+        "year": 2019,
+        "semester": 1,
+        "weekday": "Friday",
+        "hour": 15,
+        "weeks": [3,4,5,6,9,10,11,12,13,14],
+        "cid": "MATH6005",
+        "lid": "Marie",
+        "room": "504"
+    },
+
+
+
+    
+    {    
+        "year": 2019,
+        "semester": 2,
+        "weekday": "Monday",
+        "hour": 10,
+        "weeks": [1,2,3,4,5,6,9,10,11,12,13,14],
+        "cid": "ENGN8534",
+        "lid": "Phychology",
+        "room": "G6"
+    },
+    {    
+        "year": 2019,
+        "semester": 2,
+        "weekday": "Monday",
+        "hour": 13,
+        "weeks": [2,3,4,5,6,9,10,11,12,13,14],
+        "cid": "COMP6670",
+        "lid": "Hanna", 
+        "room": "123"
+    },
+    {    
+        "year": 2019,
+        "semester": 2,
+        "weekday": "Monday",
+        "hour": 17,
+        "weeks": [1,2,3,4,5,6,9,10,11,12,13,14],
+        "cid": "COMP6466",
+        "lid": "Coombs",
+        "room": "LT"
+    },
+    {    
+        "year": 2019,
+        "semester": 2,
+        "weekday": "Tuesday",
+        "hour": 10,
+        "weeks": [1,2,3,4,5,6,9,10,11,12,13,14],
+        "cid": "COMP6490",
+        "lid": "Coombs",
+        "room": "LT"
+    },
+    {    
+        "year": 2019,
+        "semester": 2,
+        "weekday": "Tuesday",
+        "hour": 11,
+        "weeks": [2,3,4,5,6,9,10,11,12,13,14],
+        "cid": "COMP6466",
+        "lid": "Hanna",
+        "room": "123"
+    },
+    {    
+        "year": 2019,
+        "semester": 2,
+        "weekday": "Wednesday",
+        "hour": 8,
+        "weeks": [1,2,3,4,5,6,9,10,11,12,13,14],
+        "cid": "ENGN8534",
+        "lid": "Engineering",
+        "room": "LT"
+    },
+    {    
+        "year": 2019,
+        "semester": 2,
+        "weekday": "Wednesday",
+        "hour": 10,
+        "weeks": [2,3,4,5,6,9,10,11,12,13,14],
+        "cid": "COMP6490",
+        "lid": "Hanna",
+        "room": "123"
+    },
+    {    
+        "year": 2019,
+        "semester": 2,
+        "weekday": "Wednesday",
+        "hour": 16,
+        "weeks": [2,3,4,5,6,9,10,11,12,13,14],
+        "cid": "COMP6466",
+        "lid": "Coombs",
+        "room": "LT"
+    },
+    {    
+        "year": 2019,
+        "semester": 2,
+        "weekday": "Thursday",
+        "hour": 9,
+        "weeks": [2,3,4,5,6,9,10,11,12,13,14],
+        "cid": "ENGN8534",
+        "lid": "Engineering",
+        "room": "R221"
+    },
+    
+    {    
+        "year": 2019,
+        "semester": 2,
+        "weekday": "Thursday",
+        "hour": 12,
+        "weeks": [1,2,3,4,5,6,9,10,11,12,13,14],
+        "cid": "COMP6670",
+        "lid": "Kambri",
+        "room": "102"
+    },
+    {    
+        "year": 2019,
+        "semester": 2,
+        "weekday": "Thursday",
+        "hour": 15,
+        "weeks": [1,2,3,4,5,6,9,10,11,12,13,14],
+        "cid": "COMP6490",
+        "lid": "Kambri",
+        "room": "102"
+    },
+    {    
+        "year": 2019,
+        "semester": 2,
+        "weekday": "Thursday",
+        "hour": 16,
+        "weeks": [1,2,3,4,5,6,9,10,11,12,13,14],
+        "cid": "COMP6670",
+        "lid": "Kambri",
+        "room": "102"
+    },
+
+
+
+    
+    {    
+        "year": 2020,
+        "semester": 1,
+        "weekday": "Monday",
+        "hour": 12,
+        "weeks": [2,3,4,5,6,9,10,11,12,13,14],
+        "cid": "COMP8600",
+        "lid": "Computer",
+        "room": "N111"
+    },
+    {    
+        "year": 2020,
+        "semester": 1,
+        "weekday": "Tuesday",
+        "hour": 9,
+        "weeks": [1,2,3,4,5,6,9,10,11,12,13,14],
+        "cid": "COMP6320",
+        "lid": "Kambri",
+        "room": "202"
+    },
+    {    
+        "year": 2020,
+        "semester": 1,
+        "weekday": "Tuesday",
+        "hour": 11,
+        "weeks": [2,3,4,5,6,9,10,11,12,13,14],
+        "cid": "COMP6320",
+        "lid": "Computer",
+        "room": "N108"
+    },
+    {    
+        "year": 2020,
+        "semester": 1,
+        "weekday": "Tuesday",
+        "hour": 13,
+        "weeks": [3,4,5,6,9,10,11,12,13,14],
+        "cid": "COMP6262",
+        "lid": "Psychology",
+        "room": "G5"
+    },
+    {    
+        "year": 2020,
+        "semester": 1,
+        "weekday": "Tuesday",
+        "hour": 14,
+        "weeks": [2,3,4,5,6,9,10,11,12,13,14],
+        "cid": "COMP6320",
+        "lid": "Computer",
+        "room": "N114"
+    },
+    {    
+        "year": 2020,
+        "semester": 1,
+        "weekday": "Wednesday",
+        "hour": 10,
+        "weeks": [1,2,3,4,5,6,9,10,11,12,13,14],
+        "cid": "COMP6320",
+        "lid": "Kambri",
+        "room": "202"
+    },
+    {    
+        "year": 2020,
+        "semester": 1,
+        "weekday": "Wednesday",
+        "hour": 12,
+        "weeks": [1,2,3,4,5,6,9,10,11,12,13,14],
+        "cid": "COMP8600",
+        "lid": "Barry",
+        "room": "1L"
+    },
+    {    
+        "year": 2020,
+        "semester": 1,
+        "weekday": "Wednesday",
+        "hour": 13,
+        "weeks": [1,2,3,4,5,6,9,10,11,12,13,14],
+        "cid": "COMP6262",
+        "lid": "Kambri",
+        "room": "104"
+    },
+    {    
+        "year": 2020,
+        "semester": 1,
+        "weekday": "Wednesday",
+        "hour": 16,
+        "weeks": [1,2,3,4,5,6,9,10,11,12,13,14],
+        "cid": "ENGN6528",
+        "lid": "Brown",
+        "room": "108"
+    },
+    {    
+        "year": 2020,
+        "semester": 1,
+        "weekday": "Thursday",
+        "hour": 10,
+        "weeks": [1,2,3,4,5,6,9,10,11,12,13,14],
+        "cid": "COMP6262",
+        "lid": "Kambri",
+        "room": "104"
+    },
+    {    
+        "year": 2020,
+        "semester": 1,
+        "weekday": "Thursday",
+        "hour": 13,
+        "weeks": [1,2,3,4,5,6,9,10,11,12,13,14],
+        "cid": "ENGN6528",
+        "lid": "Brown",
+        "room": "108"
+    },
+    {    
+        "year": 2020,
+        "semester": 1,
+        "weekday": "Thursday",
+        "hour": 16,
+        "weeks": [3,4,5,6,9,10,11,12,13,14],
+        "cid": "ENGN6528",
+        "lid": "Computer",
+        "room": "N112"
+    },
+    {    
+        "year": 2020,
+        "semester": 1,
+        "weekday": "Friday",
+        "hour": 13,
+        "weeks": [2,3,4,5,6,9,10,11,12,13,14],
+        "cid": "COMP6262",
+        "lid": "Marie",
+        "room": "403"
+    },
+    {    
+        "year": 2020,
+        "semester": 1,
+        "weekday": "Friday",
+        "hour": 15,
+        "weeks": [1,2,3,4,5,6,9,10,11,12,13,14],
+        "cid": "COMP8600",
+        "lid": "Marie",
+        "room": "602"
+    }
+]
