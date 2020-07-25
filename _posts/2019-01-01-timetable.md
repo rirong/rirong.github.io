@@ -2,7 +2,7 @@
 layout: page
 title: Timetable
 permalink: /timetable
-debug: True
+debug: False
 ---
 
 
