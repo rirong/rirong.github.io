@@ -33,6 +33,14 @@ debug: True
 {% for s in semesters %}
     {% assign begin = s.begin | date: "%s" | minus: gap %}
     {% assign end   = s.end   | date: "%s" | plus: gap  %}
+
+    {% if DEBUG %}
+        year: {{ s.year }}
+        semester: {{ s.number }}  
+        begin: {{ begin }}
+        end: {{ end }}
+    {% endif %}
+
     {% if now > begin and now < end %}
         {% assign year     = s.year   | plus: 0 %}
         {% assign semester = s.number | plus: 0 %}
@@ -42,9 +50,11 @@ debug: True
 {% endfor %}
 
 {% if DEBUG %}
+    now: {{ now }}
     year: {{ year }}
     semester: {{ semester }}  
     begin: {{ begin }}
+    end: {{ end }}
 {% endif %}
 <!-- end -->
 
