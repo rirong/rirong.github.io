@@ -7,9 +7,7 @@ debug: True
 
 
 <!-- 1. put debug mode -->
-{% assign DEBUG = page.debug %}
-
-{% if DEBUG %}
+{% if page.debug %}
     The debug mode is ON.
 {% endif %}
 <!-- end -->
@@ -29,18 +27,18 @@ debug: True
 {% assign year = settings.default_year %}
 {% assign semester = settings.default_semester %}
 {% assign now = site.time | date: "%s" | plus: 0 %}
-{% assign gap = site.settings.week_to_second | times: 2 %}
+{% assign gap = settings.week_to_second | times: 2 %}
 {% for s in semesters %}
     {% assign begin = s.begin | date: "%s" | minus: gap %}
     {% assign end   = s.end   | date: "%s" | plus: gap  %}
-    {% if DEBUG %}
+    {% if page.debug %}
         year: {{ s.year }}
         semester: {{ s.number }}
-        s.begin: {{ s.begin }}
         begin: {{ begin }}
+        s.begin: {{ s.begin }}
         now: {{ now }}
-        end: {{ end }}
         s.end: {{ s.end }}
+        end: {{ end }}
     {% endif %}
     {% if now > begin and now < end %}
         {% assign year     = s.year   | plus: 0 %}
@@ -65,7 +63,7 @@ debug: True
 {% endfor %}
 {% assign week = t %}
 
-{% if DEBUG %}
+{% if page.debug %}
     closest: {{ closest }}
     week: {{ week }}
 {% endif %}
@@ -171,13 +169,4 @@ debug: True
     </tr>
     {% endfor %}
 </table>
-<!-- end -->
-
-
-<!-- 9. put debug mode -->
-{% assign DEBUG = page.debug %}
-
-{% if DEBUG %}
-    The debug mode is ON.
-{% endif %}
 <!-- end -->
