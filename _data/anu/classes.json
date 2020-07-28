@@ -433,12 +433,11 @@
     {    
         "year": 2020,
         "semester": 2,
-        "weekday": "Thursday",
-        "hour": 9,
+        "weekday": "Wednesday",
+        "hour": 11,
         "weeks": [2,3,4,5,6,9,10,11,12,13,14],
         "cid": "ENGN8536",
-        "lid": "Computer",
-        "room": "N115"
+        "lid": "Online"
     },
     {    
         "year": 2020,
