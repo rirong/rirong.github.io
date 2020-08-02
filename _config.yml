@@ -20,7 +20,7 @@ baseurl: / # the subpath of your site, e.g. /blog
 # url: /
 url: https://rirong.github.io/
 twitter_username: null
-github_username: rirong
+github_username: rirong2
 
 # Build settings
 markdown: kramdown
